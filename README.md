@@ -1,5 +1,5 @@
 ## Football Player Profiles-UI ⚽️
-A small modern Flutter app that displays football players in a full-screen carousel with smooth transitions and a clean dark UI.
+A small modern animated Flutter app that displays football players in a full-screen carousel with smooth transitions and a clean dark UI.
 The app includes a player model, animated home screen, and a detailed player profile screen with stats.
 
 ## Features
